@@ -45,19 +45,19 @@ Every question ships with:
 
 1. **Fork or clone this repo.**
    ```bash
-   git clone https://github.com/<your-username>/pygrind.git
+   git clone https://github.com/prashantgautamev/pygrind.git
    cd pygrind
    ```
 2. Push it to your own GitHub repository (if you haven't already):
    ```bash
-   git remote set-url origin https://github.com/<your-username>/<your-repo>.git
+   git remote set-url origin https://github.com/prashantgautamdev/DSA_PECTICE_QUSTION.git
    git push -u origin main
    ```
 3. On GitHub: go to **Settings → Pages**.
 4. Under **Build and deployment**, set **Source** to `Deploy from a branch`, choose the `main` branch and `/ (root)` folder, then **Save**.
 5. Wait ~1 minute. Your site goes live at:
    ```
-   https://<your-username>.github.io/<your-repo>/
+   https://github.com/prashantgautamdev/DSA_PECTICE_QUSTION
    ```
 
 That's it — `index.html` is already named correctly for GitHub Pages to serve it automatically.
@@ -67,7 +67,7 @@ That's it — `index.html` is already named correctly for GitHub Pages to serve 
 No build step, no `npm install`. Just open the file:
 
 ```bash
-git clone https://github.com/<your-username>/pygrind.git
+git clone https://github.com/prashantgautadev/pygrind.git
 cd pygrind
 open index.html        # macOS
 start index.html        # Windows

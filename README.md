@@ -93,7 +93,7 @@ There's intentionally no build tooling, no `package.json`, and no external runti
 
 ## 🧠 How the Question Bank Is Built
 
-Each mode is composed of a set of **hand-written, distinct base problems** (114 for DSA, 129 for Python Core — 243 total), covering the concepts that actually come up in interviews and real projects. Each base problem is expanded into multiple **numbered variants** (different array sizes, targets, parameters) so you get realistic repeated practice reps on the same underlying pattern — similar to flashcard drilling. The variant number is always shown in the UI (e.g. `variant 4/18`), so nothing is hidden or padded silently.
+Each mode is composed of a set of **hand-written, distinct base problems** (114 for DSA, 129 for Python Core — 243 total), covering the concepts that actually come up in interviews and real projects. Each base problem is expanded into multiple **numbered variants** (different array sizes, targets, parameters) so you get realistic repeated practice reps on the same underlying pattern — similar to flashcard drilling. The variant number is always shown in the UI (e.g. `variant 4/18`), so nothing is hidden or padded silently..
 
 ## 🛠️ Tech Stack
 

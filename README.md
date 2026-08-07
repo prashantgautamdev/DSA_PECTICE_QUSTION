@@ -1,6 +1,6 @@
 # 🐍 PyGrind — Python DSA & Core Practice Console
 
-**4,116 free, ad-free practice questions for Python developers** — Data Structures & Algorithms *and* Python language fundamentals, all in a single static HTML file. No sign-up, no backend, no tracking. Clone it, open it, start grinding..
+**4,116 free, ad-free practice questions for Python developers** — Data Structures & Algorithms *and* Python language fundamentals, all in a single static HTML file. No sign-up, no backend, no tracking. Clone it, open it, start grinding.
 
 [![Made with HTML](https://img.shields.io/badge/Made%20with-HTML%2FCSS%2FJS-e34c26)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#license)
